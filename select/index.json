@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "おでかけ",
+  "base_artist": "VaVa",
+  "createdAt": "2026-03-04T02:51:43.418747Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "おでかけ GO! GO!",
+      "artist": "CAPSULE feat. Sylvia 55",
+      "has_synced": false,
+      "path": "select/01_おでかけ_GO!_GO!_CAPSULE_feat._Sylvia_55.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "おでかけ GO! GO!",
+      "artist": "CAPSULE",
+      "has_synced": false,
+      "path": "select/02_おでかけ_GO!_GO!_CAPSULE.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Odekake Go! Go! (ft. Sylvia55) [おでかけ Go! Go!]",
+      "artist": "CAPSULE",
+      "has_synced": false,
+      "path": "select/03_Odekake_Go!_Go!_(ft._Sylvia55)_[おでかけ_Go!_Go!]_CAPSULE.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "おでかけ GO!GO! (feat. Sylvia55)",
+      "artist": "capsule",
+      "has_synced": false,
+      "path": "select/04_おでかけ_GO!GO!_(feat._Sylvia55)_capsule.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "おでかけ",
+      "artist": "Adel Garten of White",
+      "has_synced": true,
+      "path": "select/05_おでかけ_Adel_Garten_of_White.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "おでかけ",
+      "artist": "VaVa, MonyHorse, dodo",
+      "has_synced": false,
+      "path": "select/pl_01_おでかけ_VaVa,_MonyHorse,_dodo.txt"
+    }
+  ]
+}
